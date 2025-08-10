@@ -7,6 +7,7 @@
 
 ## Get in Contact
 Signal: char.747
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1291730873644748840)](https://discord.com/users/1291730873644748840)
 
 ## GitHub Stats
